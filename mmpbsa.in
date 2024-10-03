@@ -1,0 +1,18 @@
+input file for running PB
+&general
+   startframe=1, endframe=10000,
+   keep_files=0,
+   interval=20
+   #dec_verbose=3
+   receptor_mask=:1-89
+   ligand_mask=:90
+/
+&pb
+  indi=12
+  exdi=78.35
+  istrng=0.150,
+/
+&decomp
+idecomp=1, dec_verbose=0,
+print_res="1-89,90"
+/
