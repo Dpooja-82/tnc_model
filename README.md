@@ -1,8 +1,11 @@
 # tnc_model
-#MD simulation and binding free energy calculation and Regression model.
-production input file for 10ns simulation : prod10ns.in 
-input file for MMPBSA BFE calculations : mmpbsa.in
-Regression model : mmpbsa_regression_model.ipynb
+MD simulation input file: 
+production input file for 10ns simulation : ```prod10ns.in```
+ 
+Input file for MMPBSA BFE calculations : ```mmpbsa.in```
+
+Regression model code: 
+```mmpbsa_regression_model.ipynb```
 
 #Evolution methods using EVmutation and EVcoupling software.
 EVcoupling package 
