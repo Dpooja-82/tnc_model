@@ -9,11 +9,11 @@ Regression model code:
 
 #Evolution methods using EVmutation and EVcoupling software.
 EVcoupling package 
-https://v2.evcouplings.org/
-Result output :ev.png
+```https://v2.evcouplings.org/```
+Result output :```ev.png```
 
-Mutations effect prediction using EVmutation.py. code available at
-Github repository: http://github.com/debbiemarkslab/EVmutation
+Mutations effect prediction using ```EVmutation.py``` code available at
+Github repository: ```http://github.com/debbiemarkslab/EVmutation```
 
 #Machine Learning model
-Support vector regression model with feature assessment : SVR_model_TNC.ipynb
+Support vector regression model with feature assessment : ```SVR_model_TNC.ipynb```
